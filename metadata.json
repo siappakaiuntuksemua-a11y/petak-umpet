@@ -1,0 +1,6 @@
+{
+  "name": "Petak Umpet - Hide and Seek 2D Game",
+  "description": "Game Petak Umpet 2D interaktif dengan AI pencari, 3 map, tempat persembunyian, raycast FOV, Web Audio FX, dan kontrol mobile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
